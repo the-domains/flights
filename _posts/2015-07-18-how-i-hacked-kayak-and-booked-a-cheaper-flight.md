@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://gizmodo.com/how-i-hacked-kayak-and-booked-a-cheaper-flight-1507368539'
 title: '​How I "Hacked" Kayak and Booked a Cheaper Flight'
-datePublished: '2015-07-18T04:11:21.132Z'
-dateModified: '2015-07-18T04:11:21.132Z'
+datePublished: '2015-07-18T04:11:21.184Z'
+dateModified: '2015-07-18T04:11:21.184Z'
 sourcePath: _posts/2015-07-18-how-i-hacked-kayak-and-booked-a-cheaper-flight.md
 published: true
 _context: 'http://schema.org'
